@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.5.0",
+    "@openrouter/ai-sdk-provider": "^2.9.1",
     "@phosphor-icons/react": "^2.1.10",
     "@prisma/adapter-pg": "^7.8.0",
     "@prisma/client": "^7.8.0",
     "@tanstack/react-query": "^5.101.0",
+    "ai": "^6.0.205",
     "better-auth": "^1.6.18",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
